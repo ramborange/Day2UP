@@ -1,0 +1,14 @@
+target "Day2UP" do
+	pod "AFNetworking"
+	pod "SVProgressHUD"
+	pod "MJRefresh"
+	pod "SDAutoLayout"
+	pod "YYKit"
+	pod "MJExtension"
+	pod "MWPhotoBrowser"
+	pod "SDWebImage"
+	pod "JKCategories"
+	pod "FXBlurView"
+        pod 'LBXScan',git:'https://github.com/MxABC/LBXScan.git'
+	pod "pop"
+end
